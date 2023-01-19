@@ -22,6 +22,7 @@
   "homepage": "https://github.com/norman17899/juicebox-api#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "morgan": "^1.10.0",
     "pg": "^8.8.0"
   },
   "devDependencies": {
